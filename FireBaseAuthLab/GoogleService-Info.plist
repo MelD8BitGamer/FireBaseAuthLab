@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>660015971604-dl6hgjvid7ko61mev6bkp9fbgaopeu90.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.660015971604-dl6hgjvid7ko61mev6bkp9fbgaopeu90</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCHlMN4Pp-A4nF4ATPpqgQGh4KrqGYiCoA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>660015971604</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.melinda.Firebase-Demo</string>
+	<key>PROJECT_ID</key>
+	<string>fir-authlab-13b99</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fir-authlab-13b99.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:660015971604:ios:96d28cbb070796bae49601</string>
+	<key>DATABASE_URL</key>
+	<string>https://fir-authlab-13b99.firebaseio.com</string>
+</dict>
+</plist>
